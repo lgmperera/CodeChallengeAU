@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="4939bf4a-960f-4bf4-809f-ff7f2ee4e157" name="Administrator@ENSURANCEIT03 2021-10-14 22:14:36" runUser="ENSURANCEIT03\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-10-14T22:14:36.2058497+11:00" queuing="2021-10-14T22:14:36.2058520+11:00" start="2021-10-14T22:14:35.1438213+11:00" finish="2021-10-14T22:14:36.2572852+11:00" />
+  <TestSettings name="default" id="80581eae-2343-49fd-9c45-133d4e5ec29c">
+    <Deployment runDeploymentRoot="Administrator_ENSURANCEIT03_2021-10-14_22_14_36" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="feff69c2-d5c9-4465-805a-219c482928c7" testId="a6302ab6-f2f0-c74e-d81d-d99a3c2cd284" testName="Test Case 01" computerName="ENSURANCEIT03" duration="00:00:00.0122680" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="feff69c2-d5c9-4465-805a-219c482928c7" />
+    <UnitTestResult executionId="eac11dbb-c896-46f4-b85f-68a923a1dc47" testId="8082314d-08a6-366e-795e-b30d0fdaccf6" testName="Test Case 06" computerName="ENSURANCEIT03" duration="00:00:00.0002509" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eac11dbb-c896-46f4-b85f-68a923a1dc47" />
+    <UnitTestResult executionId="897dbdc9-7bb1-46f0-8d3d-e815f3456168" testId="bd10422c-cb43-274c-24f0-36c632cc51cb" testName="Test Case 02" computerName="ENSURANCEIT03" duration="00:00:00.0007310" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="897dbdc9-7bb1-46f0-8d3d-e815f3456168" />
+    <UnitTestResult executionId="7cc75e7f-1e5d-49a6-baf7-38517d79fa9d" testId="c6530b97-8e8d-273d-9b26-1885979ced8b" testName="Test Case 07" computerName="ENSURANCEIT03" duration="00:00:00.0002490" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7cc75e7f-1e5d-49a6-baf7-38517d79fa9d" />
+    <UnitTestResult executionId="ec70c466-19c9-4e6f-a358-c61291a6deb5" testId="c878f58d-0014-d194-33ea-253607f68a25" testName="Test Case 04" computerName="ENSURANCEIT03" duration="00:00:00.0002040" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ec70c466-19c9-4e6f-a358-c61291a6deb5" />
+    <UnitTestResult executionId="705cf1ce-68a9-4887-b567-3d7354332afc" testId="6f943067-1fc0-ad2f-6e97-9e848e9b84ee" testName="Test Case 05" computerName="ENSURANCEIT03" duration="00:00:00.0002020" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="705cf1ce-68a9-4887-b567-3d7354332afc" />
+    <UnitTestResult executionId="8c84bdcf-6feb-417c-8900-9538e727abf9" testId="cb006ba4-36da-fd72-eb8e-2de598c83b20" testName="Test Case 08" computerName="ENSURANCEIT03" duration="00:00:00.0003100" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8c84bdcf-6feb-417c-8900-9538e727abf9" />
+    <UnitTestResult executionId="568c2945-d9ec-47fd-ac23-2dd2c29ece09" testId="d30efe04-98a5-8dc8-5a7c-dbf2fd44c745" testName="Test Case 11" computerName="ENSURANCEIT03" duration="00:00:00.0001390" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="568c2945-d9ec-47fd-ac23-2dd2c29ece09" />
+    <UnitTestResult executionId="5d4f27fe-cfd2-4c81-afb8-3dc1ecdf9298" testId="cadb5a36-1411-518c-85b2-86f1fcf8f153" testName="Test Case 13" computerName="ENSURANCEIT03" duration="00:00:00.0001650" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5d4f27fe-cfd2-4c81-afb8-3dc1ecdf9298" />
+    <UnitTestResult executionId="deae93e9-b253-45b4-8581-5ba5f848e7ab" testId="33512ceb-591d-c093-21e3-fe92f3ef414a" testName="Test Case 10" computerName="ENSURANCEIT03" duration="00:00:00.0001430" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="deae93e9-b253-45b4-8581-5ba5f848e7ab" />
+    <UnitTestResult executionId="ac9d8aa2-645b-477a-a048-1dcfa06cf205" testId="5f5a4e72-273c-253b-398c-e7a32f7e1fe7" testName="Test Case 09" computerName="ENSURANCEIT03" duration="00:00:00.0011270" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac9d8aa2-645b-477a-a048-1dcfa06cf205" />
+    <UnitTestResult executionId="c24e9a75-cd2d-4b70-bdae-cf13f38d2560" testId="1295706c-0d1d-32f7-b879-4f7e356acfb6" testName="Test Case 03" computerName="ENSURANCEIT03" duration="00:00:00.0006240" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c24e9a75-cd2d-4b70-bdae-cf13f38d2560" />
+    <UnitTestResult executionId="14ff4099-0141-471f-90cd-a561792e2d1b" testId="db716ae3-7986-8821-475d-5320da4856ae" testName="Test Case 12" computerName="ENSURANCEIT03" duration="00:00:00.0001350" startTime="2021-10-14T22:14:36.0000000+11:00" endTime="2021-10-14T22:14:36.0000000+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="14ff4099-0141-471f-90cd-a561792e2d1b" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Test Case 02" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="bd10422c-cb43-274c-24f0-36c632cc51cb">
+      <Execution id="897dbdc9-7bb1-46f0-8d3d-e815f3456168" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 02" />
+    </UnitTest>
+    <UnitTest name="Test Case 05" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="6f943067-1fc0-ad2f-6e97-9e848e9b84ee">
+      <Execution id="705cf1ce-68a9-4887-b567-3d7354332afc" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 05" />
+    </UnitTest>
+    <UnitTest name="Test Case 08" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="cb006ba4-36da-fd72-eb8e-2de598c83b20">
+      <Execution id="8c84bdcf-6feb-417c-8900-9538e727abf9" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 08" />
+    </UnitTest>
+    <UnitTest name="Test Case 09" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="5f5a4e72-273c-253b-398c-e7a32f7e1fe7">
+      <Execution id="ac9d8aa2-645b-477a-a048-1dcfa06cf205" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 09" />
+    </UnitTest>
+    <UnitTest name="Test Case 13" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="cadb5a36-1411-518c-85b2-86f1fcf8f153">
+      <Execution id="5d4f27fe-cfd2-4c81-afb8-3dc1ecdf9298" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 13" />
+    </UnitTest>
+    <UnitTest name="Test Case 07" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="c6530b97-8e8d-273d-9b26-1885979ced8b">
+      <Execution id="7cc75e7f-1e5d-49a6-baf7-38517d79fa9d" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 07" />
+    </UnitTest>
+    <UnitTest name="Test Case 10" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="33512ceb-591d-c093-21e3-fe92f3ef414a">
+      <Execution id="deae93e9-b253-45b4-8581-5ba5f848e7ab" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 10" />
+    </UnitTest>
+    <UnitTest name="Test Case 03" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="1295706c-0d1d-32f7-b879-4f7e356acfb6">
+      <Execution id="c24e9a75-cd2d-4b70-bdae-cf13f38d2560" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 03" />
+    </UnitTest>
+    <UnitTest name="Test Case 06" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="8082314d-08a6-366e-795e-b30d0fdaccf6">
+      <Execution id="eac11dbb-c896-46f4-b85f-68a923a1dc47" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 06" />
+    </UnitTest>
+    <UnitTest name="Test Case 01" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="a6302ab6-f2f0-c74e-d81d-d99a3c2cd284">
+      <Execution id="feff69c2-d5c9-4465-805a-219c482928c7" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 01" />
+    </UnitTest>
+    <UnitTest name="Test Case 11" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="d30efe04-98a5-8dc8-5a7c-dbf2fd44c745">
+      <Execution id="568c2945-d9ec-47fd-ac23-2dd2c29ece09" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 11" />
+    </UnitTest>
+    <UnitTest name="Test Case 12" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="db716ae3-7986-8821-475d-5320da4856ae">
+      <Execution id="14ff4099-0141-471f-90cd-a561792e2d1b" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 12" />
+    </UnitTest>
+    <UnitTest name="Test Case 04" storage="c:\users\gperera\source\repos\codechallenge\codechallengetest\bin\debug\netcoreapp3.1\codechallengetest.dll" id="c878f58d-0014-d194-33ea-253607f68a25">
+      <Execution id="ec70c466-19c9-4e6f-a358-c61291a6deb5" />
+      <TestMethod codeBase="C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll" adapterTypeName="executor://nunit3testexecutor/" className="CodeChallengeTest.StringSequenceTest" name="Test Case 04" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="a6302ab6-f2f0-c74e-d81d-d99a3c2cd284" executionId="feff69c2-d5c9-4465-805a-219c482928c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8082314d-08a6-366e-795e-b30d0fdaccf6" executionId="eac11dbb-c896-46f4-b85f-68a923a1dc47" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd10422c-cb43-274c-24f0-36c632cc51cb" executionId="897dbdc9-7bb1-46f0-8d3d-e815f3456168" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c6530b97-8e8d-273d-9b26-1885979ced8b" executionId="7cc75e7f-1e5d-49a6-baf7-38517d79fa9d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c878f58d-0014-d194-33ea-253607f68a25" executionId="ec70c466-19c9-4e6f-a358-c61291a6deb5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6f943067-1fc0-ad2f-6e97-9e848e9b84ee" executionId="705cf1ce-68a9-4887-b567-3d7354332afc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cb006ba4-36da-fd72-eb8e-2de598c83b20" executionId="8c84bdcf-6feb-417c-8900-9538e727abf9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d30efe04-98a5-8dc8-5a7c-dbf2fd44c745" executionId="568c2945-d9ec-47fd-ac23-2dd2c29ece09" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cadb5a36-1411-518c-85b2-86f1fcf8f153" executionId="5d4f27fe-cfd2-4c81-afb8-3dc1ecdf9298" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33512ceb-591d-c093-21e3-fe92f3ef414a" executionId="deae93e9-b253-45b4-8581-5ba5f848e7ab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5f5a4e72-273c-253b-398c-e7a32f7e1fe7" executionId="ac9d8aa2-645b-477a-a048-1dcfa06cf205" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1295706c-0d1d-32f7-b879-4f7e356acfb6" executionId="c24e9a75-cd2d-4b70-bdae-cf13f38d2560" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="db716ae3-7986-8821-475d-5320da4856ae" executionId="14ff4099-0141-471f-90cd-a561792e2d1b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="13" executed="13" passed="13" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.16.1.0: Test execution started&#xD;
+Running all tests in C:\Users\gperera\source\repos\CodeChallenge\CodeChallengeTest\bin\Debug\netcoreapp3.1\CodeChallengeTest.dll&#xD;
+   NUnit3TestExecutor converted 13 of 13 NUnit test cases&#xD;
+NUnit Adapter 3.16.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
